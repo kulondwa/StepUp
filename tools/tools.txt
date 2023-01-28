@@ -1,0 +1,1 @@
+this file will contain all used tools for this project including technologies, plateforms and so on
