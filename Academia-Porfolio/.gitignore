@@ -1,0 +1,5 @@
+node_modules
+media
+package-lock.json
+package.json
+tailwind.config.js
